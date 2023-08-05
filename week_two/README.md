@@ -189,7 +189,7 @@ void main() {
 
 #### Advanced Exercises
 
-- [ ] Write a program to input any character and check whether it is alphabet, digit or special character using switch case.
+- [x] Write a program to input any character and check whether it is alphabet, digit or special character using switch case.
 - [ ] Write a program to input week number and print week day using switch case.
 - [ ] Write a program to input month number and print number of days in that month using switch case.
 - [ ] Write a program to find all roots of a quadratic equation using switch case.
