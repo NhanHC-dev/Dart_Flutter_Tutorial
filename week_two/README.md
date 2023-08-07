@@ -12,7 +12,7 @@
 - Optional Parameters in Dart
 - Lexical Scope in Dart
 
-#### Dart - If Statements:
+#### Dart - If Statements
 
 If statements are used to execute a block of code if a condition is true. In Dart, you can use the if statement to execute a block of code if a condition is true. For example:
 
@@ -22,7 +22,7 @@ if (5 > 3) {
 }
 ```
 
-#### Dart - Logical Operators:
+#### Dart - Logical Operators
 
 Dart supports the following logical operators:
 
@@ -30,7 +30,7 @@ Dart supports the following logical operators:
 - || (or)
 - ! (not)
 
-#### Dart - For Loops:
+#### Dart - For Loops
 
 For loops are used to execute a block of code a certain number of times. In Dart, you can use the for loop to execute a block of code a certain number of times. For example:
 
@@ -40,7 +40,7 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-#### Dart - While Do-While and Break in Dart:
+#### Dart - While Do-While and Break in Dart
 
 While loops are used to execute a block of code while a condition is true. In Dart, you can use the while loop to execute a block of code while a condition is true. For example:
 
@@ -52,7 +52,7 @@ while (i < 5) {
 }
 ```
 
-#### Dart - Switch Cases:
+#### Dart - Switch Cases
 
 Switch cases are used to execute a block of code based on the value of a variable. In Dart, you can use the switch statement to execute a block of code based on the value of a variable. For example:
 
@@ -79,7 +79,7 @@ switch (number) {
 }
 ```
 
-#### Dart - Introduction to Functions:
+#### Dart - Introduction to Functions
 
 Functions are used to execute a block of code when they are called. In Dart, you can use the function keyword to declare a function. For example:
 
@@ -93,7 +93,7 @@ void printHello() {
 }
 ```
 
-#### Dart - Function Return Types:
+#### Dart - Function Return Types
 
 Functions can return a value. In Dart, you can use the return keyword to return a value from a function. For example:
 
@@ -107,7 +107,7 @@ int add(int a, int b) {
 }
 ```
 
-#### Dart - Using the => Operator for Returning Expressions:
+#### Dart - Using the => Operator for Returning Expressions
 
 You can use the => operator to return an expression. In Dart, you can use the => operator to return an expression. For example:
 
@@ -119,7 +119,7 @@ void main() {
 int add(int a, int b) => a + b;
 ```
 
-#### Dart - Arguments and Functions:
+#### Dart - Arguments and Functions
 
 Functions can take arguments. In Dart, you can use the function arguments to pass values to a function. For example:
 
@@ -133,7 +133,7 @@ int add(int a, int b) {
 }
 ```
 
-#### Dart - Optional Parameters in Dart:
+#### Dart - Optional Parameters in Dart
 
 You can make function parameters optional. In Dart, you can use the [] operator to make a parameter optional. For example:
 
@@ -147,7 +147,7 @@ int add(int a, [int b = 0]) {
 }
 ```
 
-#### Dart - Lexical Scope in Dart:
+#### Dart - Lexical Scope in Dart
 
 Variables have a scope. In Dart, you can use the var keyword to declare a variable. For example:
 
