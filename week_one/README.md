@@ -138,12 +138,12 @@ bool isLessOrEqual = a <= b; // false
 
 #### Basic Exercises
 
-- Create a variable named `name` and assign it a value of "John".
-- Create a variable named `age` and assign it a value of 30.
-- Create a variable named `isMarried` and assign it a value of false.
-- Create a variable named `height` and assign it a value of 1.75.
-- Create a variable named `weight` and assign it a value of 80.5.
-- Create a variable named `bmi` and assign it a value of `weight / (height \* height)`.
+x Create a variable named `name` and assign it a value of "John".
+x Create a variable named `age` and assign it a value of 30.
+x Create a variable named `isMarried` and assign it a value of false.
+x Create a variable named `height` and assign it a value of 1.75.
+x Create a variable named `weight` and assign it a value of 80.5.
+x Create a variable named `bmi` and assign it a value of `weight / (height \* height)`.
 
 #### Intermediate Exercises
 
