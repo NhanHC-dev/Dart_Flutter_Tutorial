@@ -175,7 +175,6 @@ switch(delta.toInt()){
     print("invalid input"); 
 }
 
-
 //Write a program to input any alphabet and check whether it is vowel or consonant using switch case.
 print("enter character: ");
 String character = stdin.readLineSync()!;
