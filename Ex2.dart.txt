@@ -1,0 +1,11 @@
+import 'dart:io';
+void main(List<String> arguments){
+  print('Enter number 1: ');
+  double number1 = double.parse(stdin.readLineSync()!);
+  print('Enter number 2: ');
+  double number2 = double.parse(stdin.readLineSync()!);
+  double avg = (number1+number2)/2;
+  print("Average = $avg");
+  print("Average in two decimal places ->");
+  print(avg.toStringAsFixed(2));
+}

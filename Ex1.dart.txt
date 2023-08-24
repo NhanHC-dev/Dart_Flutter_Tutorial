@@ -1,0 +1,10 @@
+import 'dart:io';
+
+void main(List<String> arguments) {
+  print('Enter height: ');
+  double? height = double.parse(stdin.readLineSync()!);
+  print('Enter base: ');
+  double? base = double.parse(stdin.readLineSync()!);
+  double area = (height*base)/2;
+  print("Area = $area");
+}
