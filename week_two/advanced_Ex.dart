@@ -21,7 +21,6 @@ switch (firstCharacter) {
     case '9':
       print("$firstCharacter is a digit.");
       break;
-
     case 'a':
     case 'b':
     case 'c':
