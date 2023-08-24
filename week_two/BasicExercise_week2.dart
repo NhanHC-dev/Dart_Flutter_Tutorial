@@ -145,6 +145,5 @@ double n1,n2,n;
           print("not have solution");
         }
       }  
- 
 }
 
