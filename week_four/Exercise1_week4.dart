@@ -1,5 +1,3 @@
-import 'dart:io';
-import 'dart:math';
 class shape{
   late String color;
   void calculateArea(){
