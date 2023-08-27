@@ -15,8 +15,6 @@ class Student extends Person{
     return  "Name: $firstName $lastName ,Major: $major";
   }
 }
-
-
 void main(List<String> args) {
   var person = Person("Phạm Trọng","Hùng");
   var student = Student("Phạm Trọng","Hùng", "Software Engineering");
