@@ -1,13 +1,13 @@
 import 'dart:math';
 
 class Shape{
-  late double width;
-  late double height;
   double calculateArea(){
     return 0;
   }
 }
 class Rectangle extends Shape{
+  late double height;
+  late double width;
   double calculateArea(){
     return height*width;
   }
