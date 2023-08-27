@@ -124,8 +124,8 @@ _An Example Image_
 
 - [x] Create a class named `Shape` with a `color` property and a `calculateArea()` method. The `calculateArea()` method should print "Shape area is calculated.".
 - [x] Create a subclass named `Rectangle` that extends `Shape`. The `Rectangle` class should have a `width` and `height` property. The `Rectangle` class should override the `calculateArea()` method to calculate the area of the rectangle.
-- [ ] Create a subclass named `Circle` that extends `Shape`. The `Circle` class should have a `radius` property. The `Circle` class should override the `calculateArea()` method to calculate the area of the circle.
-- [ ] Create a `main()` function and create a `Rectangle` and `Circle` object. Call the `calculateArea()` method on both objects.
+- [x] Create a subclass named `Circle` that extends `Shape`. The `Circle` class should have a `radius` property. The `Circle` class should override the `calculateArea()` method to calculate the area of the circle.
+- [x] Create a `main()` function and create a `Rectangle` and `Circle` object. Call the `calculateArea()` method on both objects.
 
 #### Practice Questions
 
