@@ -129,8 +129,8 @@ _An Example Image_
 
 #### Practice Questions
 
-- [ ] Create a _Vehicle_ class with `brand`, `model`, and `year` properties, and a method called `drive()` that prints a message indicating that the vehicle is being driven. Then create a _Car_ class that inherits from _Vehicle_ and has a `numDoors` property. Override the `drive()` method in the _Car_ class to print a message that includes the number of doors.
+- [x] Create a _Vehicle_ class with `brand`, `model`, and `year` properties, and a method called `drive()` that prints a message indicating that the vehicle is being driven. Then create a _Car_ class that inherits from _Vehicle_ and has a `numDoors` property. Override the `drive()` method in the _Car_ class to print a message that includes the number of doors.
 
-- [ ] Create a _BankAccount_ class with balance and accountNumber properties, and methods called `deposit()` and `withdraw()` that modify the balance property. Then create a _CheckingAccount_ class that inherits from _BankAccount_ and has a `transactionLimit` property. Override the `withdraw()` method in the _CheckingAccount_ class to check if the withdrawal amount is within the transaction limit before modifying the balance property.
+- [x] Create a _BankAccount_ class with balance and accountNumber properties, and methods called `deposit()` and `withdraw()` that modify the balance property. Then create a _CheckingAccount_ class that inherits from _BankAccount_ and has a `transactionLimit` property. Override the `withdraw()` method in the _CheckingAccount_ class to check if the withdrawal amount is within the transaction limit before modifying the balance property.
 
-- [ ] Create a _Person_ class with `firstName` and `lastName` properties, and a method called `fullName()` that returns the full name of the person. Then create a _Student_ class that inherits from _Person_ and has a major property. Override the `fullName()` method in the Student class to include the major in the full name.
+- [x] Create a _Person_ class with `firstName` and `lastName` properties, and a method called `fullName()` that returns the full name of the person. Then create a _Student_ class that inherits from _Person_ and has a major property. Override the `fullName()` method in the Student class to include the major in the full name.
