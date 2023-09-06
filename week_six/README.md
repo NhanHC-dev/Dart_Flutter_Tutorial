@@ -172,20 +172,20 @@ Iterate through the List of Person objects and print the names and ages of the p
 
 ## Practice Coding Questions
 
-- [ ] Create a list of integers from 1 to 100 and print out only the even numbers.
-- [ ] Create a list of strings and sort it in alphabetical order.
-- [ ] Create a list of maps, where each map represents a person with a name and age. Sort the list by age in ascending order.
-- [ ] Create a map that associates the names of countries with their capital cities. Print out only the names of the countries.
-- [ ] Create a list of integers and find the sum of all even numbers in the list.
-- [ ] Create a map that associates the names of fruits with their prices. Find the most expensive fruit in the map.
-- [ ] Create a list of strings and remove all duplicates from the list.
-- [ ] Create a map that associates the names of programming languages with their release dates. Find the programming language with the oldest release date.
-- [ ] Create a list of integers and find the product of all numbers in the list.
+- [x] Create a list of integers from 1 to 100 and print out only the even numbers.
+- [x] Create a list of strings and sort it in alphabetical order.
+- [x] Create a list of maps, where each map represents a person with a name and age. Sort the list by age in ascending order.
+- [x] Create a map that associates the names of countries with their capital cities. Print out only the names of the countries.
+- [x] Create a list of integers and find the sum of all even numbers in the list.
+- [x] Create a map that associates the names of fruits with their prices. Find the most expensive fruit in the map.
+- [x] Create a list of strings and remove all duplicates from the list.
+- [x] Create a map that associates the names of programming languages with their release dates. Find the programming language with the oldest release date.
+- [x] Create a list of integers and find the product of all numbers in the list.
 
 ## Assignment Questions
 
-- Create a list of integers and find the longest subsequence of consecutive numbers in the list.
-- Create a map that associates the names of cities with their latitude and longitude coordinates. Given a starting and ending city, find the shortest distance between them (you can assume a spherical Earth).
-- Create a list of maps, where each map represents a product with a name, price, and quantity. Sort the list by the total cost of each product (price x quantity) in descending order.
-- Create a map that associates the names of countries with their population and area. Find the top 5 largest countries by population density (population / area).
-- Create a list of strings and find the longest common subsequence (substring) among all the strings in the list.
+x Create a list of integers and find the longest subsequence of consecutive numbers in the list.
+x Create a map that associates the names of cities with their latitude and longitude coordinates. Given a starting and ending city, find the shortest distance between them (you can assume a spherical Earth).
+x Create a list of maps, where each map represents a product with a name, price, and quantity. Sort the list by the total cost of each product (price x quantity) in descending order.
+x Create a map that associates the names of countries with their population and area. Find the top 5 largest countries by population density (population / area).
+x Create a list of strings and find the longest common subsequence (substring) among all the strings in the list.
