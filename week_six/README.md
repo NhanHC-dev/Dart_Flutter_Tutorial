@@ -172,15 +172,15 @@ Iterate through the List of Person objects and print the names and ages of the p
 
 ## Practice Coding Questions
 
-- [ ] Create a list of integers from 1 to 100 and print out only the even numbers.
-- [ ] Create a list of strings and sort it in alphabetical order.
-- [ ] Create a list of maps, where each map represents a person with a name and age. Sort the list by age in ascending order.
-- [ ] Create a map that associates the names of countries with their capital cities. Print out only the names of the countries.
-- [ ] Create a list of integers and find the sum of all even numbers in the list.
-- [ ] Create a map that associates the names of fruits with their prices. Find the most expensive fruit in the map.
-- [ ] Create a list of strings and remove all duplicates from the list.
-- [ ] Create a map that associates the names of programming languages with their release dates. Find the programming language with the oldest release date.
-- [ ] Create a list of integers and find the product of all numbers in the list.
+- [x] Create a list of integers from 1 to 100 and print out only the even numbers.
+- [x] Create a list of strings and sort it in alphabetical order.
+- [x] Create a list of maps, where each map represents a person with a name and age. Sort the list by age in ascending order.
+- [x] Create a map that associates the names of countries with their capital cities. Print out only the names of the countries.
+- [x] Create a list of integers and find the sum of all even numbers in the list.
+- [x] Create a map that associates the names of fruits with their prices. Find the most expensive fruit in the map.
+- [x] Create a list of strings and remove all duplicates from the list.
+- [x] Create a map that associates the names of programming languages with their release dates. Find the programming language with the oldest release date.
+- [x] Create a list of integers and find the product of all numbers in the list.
 
 ## Assignment Questions
 
