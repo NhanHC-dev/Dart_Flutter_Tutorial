@@ -249,7 +249,7 @@ void check8(){
   }
 }
 //- [ ] Write a program to input any alphabet and check whether it is vowel or consonant using if else.
-void main(){
+void check10(){
   print("Enter character: ");
   String c = stdin.readLineSync()!;
   var kitu;
@@ -283,4 +283,23 @@ void check(){
       print("$kitu character is special character");
     }
   }
+}
+num square(num x) {
+  return x*x;
+}
+
+//num squareSum(num x, num y) => square(x)+square(y);
+num squareSum(num x, num y) {
+  return square(x) + square(y);
+}
+
+printer(num n, {String? s1, String? s2}) {
+  print(n);
+  print(s1);
+  print(s2);
+}
+
+void main() {
+  printer(75, s1: 'hello');
+  print(squareSum(3, 2));
 }
