@@ -12,13 +12,17 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-
-
   List<Film> films = [
-    Film(name: "Citizen Kane",author: "Orson Welles",yearReleased: 1941),
-    Film(name: "The Shawshank Redemption",author:  "Frank Darabont",yearReleased:1994),
-    Film(name: "Pulp Fiction",author:  "Quentin Tarantino",yearReleased: 1994),
-    Film(name: "The Godfather",author:  "Francis Ford Coppola",yearReleased: 1972)
+    Film(name: "Citizen Kane", author: "Orson Welles", yearReleased: 1941),
+    Film(
+        name: "The Shawshank Redemption",
+        author: "Frank Darabont",
+        yearReleased: 1994),
+    Film(name: "Pulp Fiction", author: "Quentin Tarantino", yearReleased: 1994),
+    Film(
+        name: "The Godfather",
+        author: "Francis Ford Coppola",
+        yearReleased: 1972)
   ];
 
   @override
@@ -33,16 +37,12 @@ class _HomeScreenState extends State<HomeScreen> {
         itemCount: films.length,
         itemBuilder: (context, index) {
           return OutlinedButton(
-            onPressed: (){
-              Navigator.pushNamed(context, '/film',arguments: films[index]);
+            onPressed: () {
+              Navigator.pushNamed(context, '/film', arguments: films[index]);
             },
             child: ListTile(
-              trailing: Text(
-                films[index].author
-              ),
-              leading: Text(
-                films[index].name
-              ),
+              trailing: Text(films[index].author),
+              leading: Text(films[index].name),
             ),
           );
         },
@@ -50,4 +50,3 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
-
