@@ -1,4 +1,4 @@
-import 'flipCard.dart';
+import '../presentation/view/flipCard.dart';
 
 class Subject{
   late final String title;

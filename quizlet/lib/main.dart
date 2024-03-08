@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quizlet/view/homePage.dart';
+import 'package:quizlet/presentation/screen/homePage.dart';
 
 void main() => runApp(const MyApp());
 
